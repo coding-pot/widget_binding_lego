@@ -1,7 +1,7 @@
 name: widget_binding_lego
 description: "initiate widget binding lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/widget_binding_lego
 
 version: 1.0.0
 
